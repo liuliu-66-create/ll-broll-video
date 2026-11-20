@@ -1,0 +1,4 @@
+interface:
+  display_name: "黑白蜡笔 B-roll"
+  short_description: "把一段口播文案拆镜并制成黑白蜡笔女孩逐帧动画和剪辑素材"
+  default_prompt: "用 $ll-broll-video 给这段口播做黑白蜡笔女孩 B-roll，先拆镜，再请我选画幅。"
